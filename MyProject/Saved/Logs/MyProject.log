@@ -1998,3 +1998,1159 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2024.02.15-09.04.47:108][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
 [2024.02.15-09.04.47:113][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
 [2024.02.15-09.04.47:121][  1]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 5.71 sec)
+[2024.02.15-09.07.06:769][292]LogActorFactory: Actor Factory attempting to spawn World /Game/StarterContent/Maps/Island2.Island2
+[2024.02.15-09.07.06:769][292]LogActorFactory: Actor Factory attempting to spawn World /Game/StarterContent/Maps/Island2.Island2
+[2024.02.15-09.07.07:719][388]LogActorFactory: Actor Factory attempting to spawn World /Game/StarterContent/Maps/Island2.Island2
+[2024.02.15-09.07.07:719][388]LogActorFactory: Actor Factory attempting to spawn World /Game/StarterContent/Maps/Island2.Island2
+[2024.02.15-09.07.07:727][388]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/StarterContent/Maps/Island2_LevelInstance_f6f50b94f71fea1b_0) is flushing async loading
+[2024.02.15-09.07.07:727][388]LogStreaming: Display: FlushAsyncLoading(): 1 QueuedPackages, 0 AsyncPackages
+[2024.02.15-09.07.07:730][388]LogLevelInstance: Loaded 1 levels in 0.003 seconds
+[2024.02.15-09.07.21:436][883]LogAssetEditorSubsystem: Opening Asset editor for LevelInstance /Game/StarterContent/Maps/WorkingLevel.WorkingLevel:PersistentLevel.LevelInstance_UAID_C8D9D22A5BFA68D901_1782326617
+[2024.02.15-09.07.21:533][883]LogWorld: UWorld::CleanupWorld for Island2, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-09.07.21:533][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-09.07.21:540][883]LogWorldPartition: Actor /Game/StarterContent/Maps/WorkingLevel.WorkingLevel:PersistentLevel.LevelInstance_UAID_C8D9D22A5BFA68D901_1589483616 is unreachable without properly detaching object /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/01/KD8VBB1T7AJ4FX6SDVFMUO.PackageMetaData in its package
+[2024.02.15-09.07.21:542][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.02.15-09.07.21:548][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.02.15-09.07.21:550][883]MapCheck: New page: Map Check
+[2024.02.15-09.07.21:550][883]LightingResults: New page: Lighting Build
+[2024.02.15-09.07.21:557][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.02.15-09.07.21:557][883]LogLevelInstance: Unloaded 1 levels in 0.025 seconds
+[2024.02.15-09.07.21:558][883]LogWorld: UWorld::CleanupWorld for Island2, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-09.07.21:558][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-09.07.21:566][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.02.15-09.07.21:572][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.02.15-09.07.21:572][883]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/StarterContent/Maps/Island2) is flushing async loading
+[2024.02.15-09.07.21:572][883]LogStreaming: Display: FlushAsyncLoading(): 1 QueuedPackages, 0 AsyncPackages
+[2024.02.15-09.07.25:689][348]LogWorld: UWorld::CleanupWorld for Island2, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-09.07.25:690][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-09.07.25:696][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.02.15-09.07.25:703][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.02.15-09.07.25:703][348]MapCheck: New page: Map Check
+[2024.02.15-09.07.25:703][348]LightingResults: New page: Lighting Build
+[2024.02.15-09.07.25:710][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.02.15-09.07.25:711][348]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/StarterContent/Maps/Island2_LevelInstance_f6f50b94f71fea1b_0) is flushing async loading
+[2024.02.15-09.07.25:711][348]LogStreaming: Display: FlushAsyncLoading(): 1 QueuedPackages, 0 AsyncPackages
+[2024.02.15-09.07.25:714][348]LogLevelInstance: Loaded 1 levels in 0.003 seconds
+[2024.02.15-09.07.38:997][894]Cmd: DELETE
+[2024.02.15-09.07.38:997][894]Cmd: ACTOR DELETE
+[2024.02.15-09.07.39:001][894]LogEditorActor: Deleted Actor: PlayerStart
+[2024.02.15-09.07.39:009][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.02.15-09.07.39:010][894]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2024.02.15-09.08.05:047][911]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.15-09.08.05:133][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.02.15-09.08.05:139][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.02.15-09.08.05:146][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.02.15-09.08.05:150][911]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/5/MQ/QUJTF1YSCEMPS3F5KORTDU
+[2024.02.15-09.08.05:150][911]LogSavePackage: Moving '../../../../../../Users/arulhv2/Documents/415_MP2/MyProject/Saved/QUJTF1YSCEMPS3F5KORTDU827EEFAE4414C95D0F362697CFEAE651.tmp' to '../../../../../../Users/arulhv2/Documents/415_MP2/MyProject/Content/__ExternalActors__/StarterContent/Maps/WorkingLevel/5/MQ/QUJTF1YSCEMPS3F5KORTDU.uasset'
+[2024.02.15-09.08.05:196][911]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 5.85 sec)
+[2024.02.15-09.08.05:197][911]AssetCheck: New page: Asset Save: LevelInstance_UAID_C8D9D22A5BFA68D901_1782326617
+[2024.02.15-09.08.05:197][911]LogContentValidation: Display: Validating /Script/Engine.LevelInstance /Game/StarterContent/Maps/WorkingLevel.WorkingLevel:PersistentLevel.LevelInstance_UAID_C8D9D22A5BFA68D901_1782326617
+[2024.02.15-09.08.06:358][ 47]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.15-09.08.06:369][ 47]LogWorldPartition: Display: GenerateStreaming for 'BackupLevel' started...
+[2024.02.15-09.08.06:375][ 47]LogWorldPartition: Display: GenerateStreaming for 'BackupLevel' took 6 ms
+[2024.02.15-09.08.06:375][ 47]LogContentBundle: [WorkingLevel(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.15-09.08.06:375][ 47]LogWorldPartition: Display: GenerateStreaming for 'WorkingLevel' started...
+[2024.02.15-09.08.06:376][ 47]MapCheck: Error: Level Instance /Game/StarterContent/Maps/WorkingLevel.Island2 is not using external actors /Game/StarterContent/Maps/Island2.Island2 
+[2024.02.15-09.08.06:515][ 47]LogWorldPartition: Display: GenerateStreaming for 'WorkingLevel' took 139 ms (total: 146 ms)
+[2024.02.15-09.08.06:516][ 47]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.15-09.08.06:516][ 47]PIE: New page: PIE session: WorkingLevel (Feb 14, 2024, 9:08:06 PM)
+[2024.02.15-09.08.06:521][ 47]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.02.15-09.08.06:521][ 47]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.02.15-09.08.06:521][ 47]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_WorkingLevel
+[2024.02.15-09.08.06:534][ 47]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012842s)
+[2024.02.15-09.08.06:534][ 47]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/WorkingLevel.WorkingLevel to /Game/StarterContent/Maps/UEDPIE_0_WorkingLevel.WorkingLevel (0.012886s)
+[2024.02.15-09.08.06:539][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.02.15-09.08.06:540][ 47]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.15-09.08.06:540][ 47]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.15-09.08.06:541][ 47]LogAIModule: Creating AISystem for world WorkingLevel
+[2024.02.15-09.08.06:541][ 47]LogWorldPartition: ULevel::OnLevelLoaded(WorkingLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.15-09.08.06:541][ 47]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.15-09.08.06:541][ 47]LogWorldPartition: UWorldPartition::Initialize : World = WorkingLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.15-09.08.06:541][ 47]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.02.15-09.08.06:545][ 47]LogContentBundle: [WorkingLevel(Standalone)] Creating new contrainer.
+[2024.02.15-09.08.06:545][ 47]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 707 ms)
+[2024.02.15-09.08.06:545][ 47]LogPlayLevel: PIE: World Init took: (0.004848s)
+[2024.02.15-09.08.06:545][ 47]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.02.15-09.08.06:545][ 47]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.15-09.08.06:545][ 47]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.15-09.08.06:545][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.15-09.08.06:545][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.15-09.08.06:545][ 47]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.15-09.08.06:545][ 47]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.15-09.08.06:545][ 47]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.15-09.08.06:545][ 47]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.15-09.08.06:546][ 47]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.15-09.08.06:546][ 47]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.15-09.08.06:546][ 47]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.15-09.08.06:548][ 47]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.15-09.08.06:567][ 47]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.02.15-09.08.06:567][ 47]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.15-09.08.06:567][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.15-09.08.06:567][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.15-09.08.06:568][ 47]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.02.15-09.08.06:568][ 47]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.02.15-09.08.06:570][ 47]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.02.15-09.08.06:570][ 47]LogInit: FAudioDevice initialized with ID 2.
+[2024.02.15-09.08.06:570][ 47]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.02.15-09.08.06:570][ 47]LogAudio: Display: Audio Device (ID: 2) registered with world 'WorkingLevel'.
+[2024.02.15-09.08.06:570][ 47]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.02.15-09.08.06:574][ 47]LogLoad: Game class is 'GameModeBase'
+[2024.02.15-09.08.06:574][ 47]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_WorkingLevel.WorkingLevel up for play (max tick rate 0) at 2024.02.15-03.08.06
+[2024.02.15-09.08.06:575][ 47]LogWorld: Bringing up level for play took: 0.000870
+[2024.02.15-09.08.06:577][ 47]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2024.02.15-09.08.06:578][ 47]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.15-09.08.06:582][ 47]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(45), CellsToLoad(0), CellsToUnload(0)
+[2024.02.15-09.08.06:582][ 47]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=0.000,P=0.000000 Y=0.000000 R=-0.000000
+[2024.02.15-09.08.06:586][ 47]LogStreaming: Display: FlushAsyncLoading(): 60 QueuedPackages, 0 AsyncPackages
+[2024.02.15-09.08.06:877][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/F/30/X83K012KIFVEBC9W0GG6ZL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.06:877][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/E/WT/5MFF5FL5U925862YF6JMQ9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.06:877][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/E/TB/DC9ABUXL4PJXV21896MK19.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.08.06:877][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/E/TB/DC9ABUXL4PJXV21896MK19.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.08.06:877][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/E/E5/X9QZ8PR0A48KI95U18LX73.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.06:877][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/E/6L/9RYVEXEOVPC29UOBNB4BGD.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.06:877][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/XV/RAMPVHBVYMHQ6WU9SSLLU8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.06:877][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/P0/KL22R8Z1SCOCNJ059NYSHW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.06:877][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/AQ/8JOBMS00SO7TSGQCWCJ91V.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2024.02.15-09.08.06:877][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/AQ/8JOBMS00SO7TSGQCWCJ91V.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2024.02.15-09.08.06:877][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/AQ/8JOBMS00SO7TSGQCWCJ91V.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2024.02.15-09.08.06:877][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/AQ/8JOBMS00SO7TSGQCWCJ91V.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2024.02.15-09.08.06:877][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/5E/YOPPJKI7KFHXAIIG2HGMVZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.06:877][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/1A/EVVT4Z58I8C81IO4OUARW2.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.06:877][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/XE/QJXJFMY82P0PO44HB5X4MP.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.08.06:877][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/XE/QJXJFMY82P0PO44HB5X4MP.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.08.06:877][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/SF/4IIIE2EPE7F1SKYCXL03TE.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.08.06:877][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/SF/4IIIE2EPE7F1SKYCXL03TE.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.08.06:877][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/G8/U41D02TNERSVNRF06Z92JV.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/G8/U41D02TNERSVNRF06Z92JV.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/8L/UYBBGE9DZGNLK3DHBFKQ0B.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/Z2/MZC5EKF58J8NLEK2BBF9MS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/VV/3JAMYUEDXWIIWNZRBXH3CG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/U3/5EE3RG11UPF3LNYKFQI7ZL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/RV/OO9L0QHEVXILTVGIY0XYS8.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/RV/OO9L0QHEVXILTVGIY0XYS8.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/IJ/OBZBOZMHQACZ09G4IGN5TU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/A/LN/SKWT1B72Y5KG8S5M7EJ842.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/9/Z7/S6XETZ9NX9X8RKSO9VBBZD.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/9/Z7/S6XETZ9NX9X8RKSO9VBBZD.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/9/VQ/N4ERG8WA2D98OLMOSUDS9I.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/9/VQ/N4ERG8WA2D98OLMOSUDS9I.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/8/SS/6Q4YSR1M6FJDLQCUB45L3N.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/8/IV/4RJW82EH43V8K4QSIPN4L7.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/8/IV/4RJW82EH43V8K4QSIPN4L7.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/8/37/Q9U702VH1AN4BBAA01XZYJ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/7/N3/BSC3KVKPHT21XLFWUFC8WG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/7/IQ/WJU0O8S8W1L5UCZ7PZWVXQ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/7/0A/FSNO7SXN98P3E4GCULLSO6.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/7/0A/FSNO7SXN98P3E4GCULLSO6.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/6/WM/GDO3TBSYKLZNGBR0T41HZB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/6/64/JMO0K4N2OBGJRJEVZPAUVG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/5/LC/CB33HF9Q49J8POMYLQ83JX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/LG/R3KEC17VGH4GD9ZMGO5065.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/GI/8P8BZM0CJLKHVAK1UAKMF8.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/GI/8P8BZM0CJLKHVAK1UAKMF8.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/AR/MM0FDN66MMLDQT5TEDE5WL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/2P/TNVH4UQYI0ENOK0J15S1L3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/1T/LG0X9KKMUMFACCYGJ0TSQX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/3/YV/G435FMERI9PAALUL2SU5WT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/3/NA/OT6VH6QNMNA3NHW6G7VAAL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/3/N9/I0ZBQ3JU0O4IVJ19XYSD09.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/2/ZJ/62IZ2VKJT9RD49WJFFC3BU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/2/NF/GSBX1SG4BZJUSAQHYSDBEV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/2/BH/WK86L00966TQB6TN6O0JGU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/PZ/XNOMS0ZKNU40XTW1M5WSFB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/H1/E4M5J6XYKGGCYVPFROREQP.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/H1/E4M5J6XYKGGCYVPFROREQP.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/4A/6MB8LEHQUBB7WPBKDS6S3Y.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/4A/6MB8LEHQUBB7WPBKDS6S3Y.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/2P/86XQP0PZ01MRN8V5RH75TN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/0/JZ/2RJ52VPC1PUEFGD83K64SI.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/0/FY/P3QYTKXQYA10WNA30PJFRZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.06:878][ 47]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/0/2X/QXXMS4R506II2GNJP28UGZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.06:954][ 47]PIE: Server logged in
+[2024.02.15-09.08.06:955][ 47]PIE: Play in editor total start time 0.587 seconds.
+[2024.02.15-09.08.18:411][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-09.08.18:411][114]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_WorkingLevel
+[2024.02.15-09.08.18:432][114]LogWorld: UWorld::CleanupWorld for WorkingLevel, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-09.08.18:432][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-09.08.18:432][114]LogContentBundle: [WorkingLevel(Standalone)] Deleting container.
+[2024.02.15-09.08.18:435][114]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.15-09.08.18:439][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-09.08.18:450][114]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.15-09.08.18:450][114]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.02.15-09.08.18:450][114]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.02.15-09.08.18:453][114]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.02.15-09.08.18:457][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-09.08.18:481][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.02.15-09.08.18:507][115]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2024.02.15-09.08.23:839][733]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.15-09.08.23:848][733]LogWorldPartition: Display: GenerateStreaming for 'BackupLevel' started...
+[2024.02.15-09.08.23:857][733]LogWorldPartition: Display: GenerateStreaming for 'BackupLevel' took 7 ms (total: 154 ms)
+[2024.02.15-09.08.23:857][733]LogContentBundle: [WorkingLevel(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.15-09.08.23:857][733]LogWorldPartition: Display: GenerateStreaming for 'WorkingLevel' started...
+[2024.02.15-09.08.23:858][733]MapCheck: Error: Level Instance /Game/StarterContent/Maps/WorkingLevel.Island2 is not using external actors /Game/StarterContent/Maps/Island2.Island2 
+[2024.02.15-09.08.24:000][733]LogWorldPartition: Display: GenerateStreaming for 'WorkingLevel' took 144 ms (total: 298 ms)
+[2024.02.15-09.08.24:001][733]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.15-09.08.24:001][733]PIE: New page: PIE session: WorkingLevel (Feb 14, 2024, 9:08:24 PM)
+[2024.02.15-09.08.24:001][733]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_WorkingLevel
+[2024.02.15-09.08.24:014][733]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012479s)
+[2024.02.15-09.08.24:014][733]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/WorkingLevel.WorkingLevel to /Game/StarterContent/Maps/UEDPIE_0_WorkingLevel.WorkingLevel (0.012509s)
+[2024.02.15-09.08.24:018][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.02.15-09.08.24:019][733]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.15-09.08.24:019][733]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.15-09.08.24:020][733]LogAIModule: Creating AISystem for world WorkingLevel
+[2024.02.15-09.08.24:020][733]LogWorldPartition: ULevel::OnLevelLoaded(WorkingLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.15-09.08.24:020][733]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.15-09.08.24:020][733]LogWorldPartition: UWorldPartition::Initialize : World = WorkingLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.15-09.08.24:020][733]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.02.15-09.08.24:023][733]LogContentBundle: [WorkingLevel(Standalone)] Creating new contrainer.
+[2024.02.15-09.08.24:024][733]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 710 ms)
+[2024.02.15-09.08.24:024][733]LogPlayLevel: PIE: World Init took: (0.004533s)
+[2024.02.15-09.08.24:024][733]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.02.15-09.08.24:024][733]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.15-09.08.24:024][733]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.15-09.08.24:024][733]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.15-09.08.24:024][733]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.15-09.08.24:024][733]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.15-09.08.24:024][733]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.15-09.08.24:024][733]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.15-09.08.24:024][733]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.15-09.08.24:024][733]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.15-09.08.24:024][733]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.15-09.08.24:024][733]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.15-09.08.24:027][733]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.15-09.08.24:042][733]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.02.15-09.08.24:042][733]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.15-09.08.24:042][733]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.15-09.08.24:042][733]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.15-09.08.24:042][733]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.02.15-09.08.24:042][733]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.02.15-09.08.24:045][733]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.02.15-09.08.24:045][733]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.02.15-09.08.24:045][733]LogInit: FAudioDevice initialized with ID 3.
+[2024.02.15-09.08.24:045][733]LogAudio: Display: Audio Device (ID: 3) registered with world 'WorkingLevel'.
+[2024.02.15-09.08.24:045][733]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.02.15-09.08.24:048][733]LogLoad: Game class is 'GameModeBase'
+[2024.02.15-09.08.24:049][733]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_WorkingLevel.WorkingLevel up for play (max tick rate 0) at 2024.02.15-03.08.24
+[2024.02.15-09.08.24:049][733]LogWorld: Bringing up level for play took: 0.000776
+[2024.02.15-09.08.24:052][733]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2024.02.15-09.08.24:052][733]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.15-09.08.24:053][733]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(45), CellsToLoad(0), CellsToUnload(0)
+[2024.02.15-09.08.24:053][733]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=0.000 Z=0.000,P=0.000000 Y=0.000000 R=-0.000000
+[2024.02.15-09.08.24:056][733]LogStreaming: Display: FlushAsyncLoading(): 60 QueuedPackages, 0 AsyncPackages
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/F/30/X83K012KIFVEBC9W0GG6ZL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/E/WT/5MFF5FL5U925862YF6JMQ9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/E/TB/DC9ABUXL4PJXV21896MK19.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/E/TB/DC9ABUXL4PJXV21896MK19.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/E/E5/X9QZ8PR0A48KI95U18LX73.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/E/6L/9RYVEXEOVPC29UOBNB4BGD.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/XV/RAMPVHBVYMHQ6WU9SSLLU8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/P0/KL22R8Z1SCOCNJ059NYSHW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/AQ/8JOBMS00SO7TSGQCWCJ91V.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/AQ/8JOBMS00SO7TSGQCWCJ91V.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/AQ/8JOBMS00SO7TSGQCWCJ91V.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/AQ/8JOBMS00SO7TSGQCWCJ91V.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/5E/YOPPJKI7KFHXAIIG2HGMVZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/1A/EVVT4Z58I8C81IO4OUARW2.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/XE/QJXJFMY82P0PO44HB5X4MP.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/XE/QJXJFMY82P0PO44HB5X4MP.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/SF/4IIIE2EPE7F1SKYCXL03TE.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/SF/4IIIE2EPE7F1SKYCXL03TE.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/G8/U41D02TNERSVNRF06Z92JV.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/G8/U41D02TNERSVNRF06Z92JV.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/8L/UYBBGE9DZGNLK3DHBFKQ0B.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/Z2/MZC5EKF58J8NLEK2BBF9MS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/VV/3JAMYUEDXWIIWNZRBXH3CG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/U3/5EE3RG11UPF3LNYKFQI7ZL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/RV/OO9L0QHEVXILTVGIY0XYS8.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/RV/OO9L0QHEVXILTVGIY0XYS8.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/IJ/OBZBOZMHQACZ09G4IGN5TU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/A/LN/SKWT1B72Y5KG8S5M7EJ842.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/9/Z7/S6XETZ9NX9X8RKSO9VBBZD.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/9/Z7/S6XETZ9NX9X8RKSO9VBBZD.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/9/VQ/N4ERG8WA2D98OLMOSUDS9I.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/9/VQ/N4ERG8WA2D98OLMOSUDS9I.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/8/SS/6Q4YSR1M6FJDLQCUB45L3N.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/8/IV/4RJW82EH43V8K4QSIPN4L7.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/8/IV/4RJW82EH43V8K4QSIPN4L7.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/8/37/Q9U702VH1AN4BBAA01XZYJ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/7/N3/BSC3KVKPHT21XLFWUFC8WG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/7/IQ/WJU0O8S8W1L5UCZ7PZWVXQ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/7/0A/FSNO7SXN98P3E4GCULLSO6.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/7/0A/FSNO7SXN98P3E4GCULLSO6.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/6/WM/GDO3TBSYKLZNGBR0T41HZB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/6/64/JMO0K4N2OBGJRJEVZPAUVG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/5/LC/CB33HF9Q49J8POMYLQ83JX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/LG/R3KEC17VGH4GD9ZMGO5065.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/GI/8P8BZM0CJLKHVAK1UAKMF8.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/GI/8P8BZM0CJLKHVAK1UAKMF8.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.08.24:348][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/AR/MM0FDN66MMLDQT5TEDE5WL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.24:349][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/2P/TNVH4UQYI0ENOK0J15S1L3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.24:349][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/1T/LG0X9KKMUMFACCYGJ0TSQX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.24:349][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/3/YV/G435FMERI9PAALUL2SU5WT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.24:349][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/3/NA/OT6VH6QNMNA3NHW6G7VAAL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.24:349][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/3/N9/I0ZBQ3JU0O4IVJ19XYSD09.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.24:349][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/2/ZJ/62IZ2VKJT9RD49WJFFC3BU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.24:349][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/2/NF/GSBX1SG4BZJUSAQHYSDBEV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.24:349][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/2/BH/WK86L00966TQB6TN6O0JGU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.24:349][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/PZ/XNOMS0ZKNU40XTW1M5WSFB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.24:349][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/H1/E4M5J6XYKGGCYVPFROREQP.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.08.24:349][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/H1/E4M5J6XYKGGCYVPFROREQP.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.08.24:349][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/4A/6MB8LEHQUBB7WPBKDS6S3Y.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.08.24:349][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/4A/6MB8LEHQUBB7WPBKDS6S3Y.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.08.24:349][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/2P/86XQP0PZ01MRN8V5RH75TN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.24:349][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/0/JZ/2RJ52VPC1PUEFGD83K64SI.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.24:349][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/0/FY/P3QYTKXQYA10WNA30PJFRZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.24:349][733]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/0/2X/QXXMS4R506II2GNJP28UGZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.08.24:421][733]PIE: Server logged in
+[2024.02.15-09.08.24:422][733]PIE: Play in editor total start time 0.573 seconds.
+[2024.02.15-09.08.39:071][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-09.08.39:071][ 76]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_WorkingLevel
+[2024.02.15-09.08.39:091][ 76]LogWorld: UWorld::CleanupWorld for WorkingLevel, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-09.08.39:091][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-09.08.39:092][ 76]LogContentBundle: [WorkingLevel(Standalone)] Deleting container.
+[2024.02.15-09.08.39:095][ 76]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.15-09.08.39:098][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-09.08.39:114][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-09.08.39:115][ 76]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.02.15-09.08.39:115][ 76]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.02.15-09.08.39:117][ 76]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.02.15-09.08.39:142][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.02.15-09.08.39:168][ 77]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2024.02.15-09.08.43:208][557]LogWorld: UWorld::CleanupWorld for Island2, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-09.08.43:208][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-09.08.43:214][557]LogWorldPartition: Actor /Game/StarterContent/Maps/WorkingLevel.WorkingLevel:PersistentLevel.PlayerStart_UAID_F02F74551BF5599B01_1153002503 is unreachable without properly detaching object /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/7/P2/3C4KGZUPDP4PZOEVHJD50C.PackageMetaData in its package
+[2024.02.15-09.08.43:216][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.02.15-09.08.43:224][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.02.15-09.08.43:224][557]MapCheck: New page: Map Check
+[2024.02.15-09.08.43:224][557]LightingResults: New page: Lighting Build
+[2024.02.15-09.08.43:231][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.02.15-09.08.43:231][557]LogLevelInstance: Unloaded 1 levels in 0.025 seconds
+[2024.02.15-09.08.43:239][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.02.15-09.08.49:911][345]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/StarterContent/Maps/Island2_LevelInstance_f6f50b94f71fea1b_0) is flushing async loading
+[2024.02.15-09.08.49:911][345]LogStreaming: Display: FlushAsyncLoading(): 1 QueuedPackages, 0 AsyncPackages
+[2024.02.15-09.08.49:913][345]LogLevelInstance: Loaded 1 levels in 0.003 seconds
+[2024.02.15-09.09.55:302][567]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2024.02.15-09.09.55:302][567]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2024.02.15-09.09.55:303][567]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/StarterContent/Maps/WorkingLevel.WorkingLevel:PersistentLevel.PlayerStart_0
+[2024.02.15-09.09.55:303][567]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.02.15-09.09.55:303][567]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/StarterContent/Maps/WorkingLevel.WorkingLevel:PersistentLevel.PlayerStart_0
+[2024.02.15-09.09.55:304][567]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.02.15-09.09.57:048][758]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2024.02.15-09.09.57:048][758]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2024.02.15-09.09.57:050][758]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/StarterContent/Maps/WorkingLevel.WorkingLevel:PersistentLevel.PlayerStart_UAID_C8D9D22A5BFA68D901_1951655618
+[2024.02.15-09.09.57:051][758]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.02.15-09.09.57:051][758]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/StarterContent/Maps/WorkingLevel.WorkingLevel:PersistentLevel.PlayerStart_UAID_C8D9D22A5BFA68D901_1951655618
+[2024.02.15-09.09.57:051][758]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.02.15-09.10.13:218][553]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.02.15-09.10.14:549][699]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.02.15-09.10.21:125][444]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.15-09.10.21:134][444]LogWorldPartition: Display: GenerateStreaming for 'BackupLevel' started...
+[2024.02.15-09.10.21:141][444]LogWorldPartition: Display: GenerateStreaming for 'BackupLevel' took 6 ms (total: 304 ms)
+[2024.02.15-09.10.21:141][444]LogContentBundle: [WorkingLevel(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.15-09.10.21:141][444]LogWorldPartition: Display: GenerateStreaming for 'WorkingLevel' started...
+[2024.02.15-09.10.21:143][444]MapCheck: Error: Level Instance /Game/StarterContent/Maps/WorkingLevel.Island2 is not using external actors /Game/StarterContent/Maps/Island2.Island2 
+[2024.02.15-09.10.21:275][444]LogWorldPartition: Display: GenerateStreaming for 'WorkingLevel' took 133 ms (total: 438 ms)
+[2024.02.15-09.10.21:275][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.15-09.10.21:275][444]PIE: New page: PIE session: WorkingLevel (Feb 14, 2024, 9:10:21 PM)
+[2024.02.15-09.10.21:275][444]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_WorkingLevel
+[2024.02.15-09.10.21:288][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012750s)
+[2024.02.15-09.10.21:288][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/WorkingLevel.WorkingLevel to /Game/StarterContent/Maps/UEDPIE_0_WorkingLevel.WorkingLevel (0.012782s)
+[2024.02.15-09.10.21:294][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.02.15-09.10.21:295][444]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.15-09.10.21:295][444]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.15-09.10.21:296][444]LogAIModule: Creating AISystem for world WorkingLevel
+[2024.02.15-09.10.21:296][444]LogWorldPartition: ULevel::OnLevelLoaded(WorkingLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.15-09.10.21:296][444]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.15-09.10.21:296][444]LogWorldPartition: UWorldPartition::Initialize : World = WorkingLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.15-09.10.21:296][444]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.02.15-09.10.21:299][444]LogContentBundle: [WorkingLevel(Standalone)] Creating new contrainer.
+[2024.02.15-09.10.21:300][444]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 714 ms)
+[2024.02.15-09.10.21:300][444]LogPlayLevel: PIE: World Init took: (0.004645s)
+[2024.02.15-09.10.21:300][444]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.02.15-09.10.21:300][444]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.15-09.10.21:300][444]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.15-09.10.21:300][444]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.15-09.10.21:300][444]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.15-09.10.21:300][444]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.15-09.10.21:300][444]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.15-09.10.21:300][444]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.15-09.10.21:300][444]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.15-09.10.21:301][444]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.15-09.10.21:301][444]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.15-09.10.21:301][444]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.15-09.10.21:303][444]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.15-09.10.21:320][444]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.02.15-09.10.21:321][444]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.15-09.10.21:321][444]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.15-09.10.21:321][444]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.15-09.10.21:321][444]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.02.15-09.10.21:321][444]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.02.15-09.10.21:323][444]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.02.15-09.10.21:323][444]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.02.15-09.10.21:323][444]LogInit: FAudioDevice initialized with ID 4.
+[2024.02.15-09.10.21:323][444]LogAudio: Display: Audio Device (ID: 4) registered with world 'WorkingLevel'.
+[2024.02.15-09.10.21:323][444]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.02.15-09.10.21:326][444]LogLoad: Game class is 'GameModeBase'
+[2024.02.15-09.10.21:327][444]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_WorkingLevel.WorkingLevel up for play (max tick rate 0) at 2024.02.15-03.10.21
+[2024.02.15-09.10.21:327][444]LogWorld: Bringing up level for play took: 0.000805
+[2024.02.15-09.10.21:330][444]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2024.02.15-09.10.21:331][444]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(11), CellsToLoad(0), CellsToUnload(0)
+[2024.02.15-09.10.21:331][444]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=126210.000 Y=13120.000 Z=99582.000,P=0.000000 Y=0.000000 R=-0.000000
+[2024.02.15-09.10.21:332][444]LogStreaming: Display: FlushAsyncLoading(): 13 QueuedPackages, 0 AsyncPackages
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/F/30/X83K012KIFVEBC9W0GG6ZL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/E/WT/5MFF5FL5U925862YF6JMQ9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/E/TB/DC9ABUXL4PJXV21896MK19.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/E/TB/DC9ABUXL4PJXV21896MK19.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/E/E5/X9QZ8PR0A48KI95U18LX73.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/E/6L/9RYVEXEOVPC29UOBNB4BGD.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/XV/RAMPVHBVYMHQ6WU9SSLLU8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/P0/KL22R8Z1SCOCNJ059NYSHW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/AQ/8JOBMS00SO7TSGQCWCJ91V.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/AQ/8JOBMS00SO7TSGQCWCJ91V.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/AQ/8JOBMS00SO7TSGQCWCJ91V.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/AQ/8JOBMS00SO7TSGQCWCJ91V.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/5E/YOPPJKI7KFHXAIIG2HGMVZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/1A/EVVT4Z58I8C81IO4OUARW2.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/XE/QJXJFMY82P0PO44HB5X4MP.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/XE/QJXJFMY82P0PO44HB5X4MP.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/SF/4IIIE2EPE7F1SKYCXL03TE.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/SF/4IIIE2EPE7F1SKYCXL03TE.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/G8/U41D02TNERSVNRF06Z92JV.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/G8/U41D02TNERSVNRF06Z92JV.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/8L/UYBBGE9DZGNLK3DHBFKQ0B.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/Z2/MZC5EKF58J8NLEK2BBF9MS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/VV/3JAMYUEDXWIIWNZRBXH3CG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/U3/5EE3RG11UPF3LNYKFQI7ZL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/RV/OO9L0QHEVXILTVGIY0XYS8.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/RV/OO9L0QHEVXILTVGIY0XYS8.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/IJ/OBZBOZMHQACZ09G4IGN5TU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/A/LN/SKWT1B72Y5KG8S5M7EJ842.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/9/Z7/S6XETZ9NX9X8RKSO9VBBZD.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/9/Z7/S6XETZ9NX9X8RKSO9VBBZD.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/9/VQ/N4ERG8WA2D98OLMOSUDS9I.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/9/VQ/N4ERG8WA2D98OLMOSUDS9I.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/8/SS/6Q4YSR1M6FJDLQCUB45L3N.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/8/IV/4RJW82EH43V8K4QSIPN4L7.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/8/IV/4RJW82EH43V8K4QSIPN4L7.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/8/37/Q9U702VH1AN4BBAA01XZYJ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/7/N3/BSC3KVKPHT21XLFWUFC8WG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/7/IQ/WJU0O8S8W1L5UCZ7PZWVXQ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/7/0A/FSNO7SXN98P3E4GCULLSO6.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/7/0A/FSNO7SXN98P3E4GCULLSO6.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/6/WM/GDO3TBSYKLZNGBR0T41HZB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/6/64/JMO0K4N2OBGJRJEVZPAUVG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/5/LC/CB33HF9Q49J8POMYLQ83JX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/LG/R3KEC17VGH4GD9ZMGO5065.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/GI/8P8BZM0CJLKHVAK1UAKMF8.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/GI/8P8BZM0CJLKHVAK1UAKMF8.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/AR/MM0FDN66MMLDQT5TEDE5WL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/2P/TNVH4UQYI0ENOK0J15S1L3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/1T/LG0X9KKMUMFACCYGJ0TSQX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/3/YV/G435FMERI9PAALUL2SU5WT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/3/NA/OT6VH6QNMNA3NHW6G7VAAL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/3/N9/I0ZBQ3JU0O4IVJ19XYSD09.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/2/ZJ/62IZ2VKJT9RD49WJFFC3BU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/2/NF/GSBX1SG4BZJUSAQHYSDBEV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/2/BH/WK86L00966TQB6TN6O0JGU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/PZ/XNOMS0ZKNU40XTW1M5WSFB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/H1/E4M5J6XYKGGCYVPFROREQP.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/H1/E4M5J6XYKGGCYVPFROREQP.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/4A/6MB8LEHQUBB7WPBKDS6S3Y.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/4A/6MB8LEHQUBB7WPBKDS6S3Y.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/2P/86XQP0PZ01MRN8V5RH75TN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/0/JZ/2RJ52VPC1PUEFGD83K64SI.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/0/FY/P3QYTKXQYA10WNA30PJFRZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.10.21:394][444]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/0/2X/QXXMS4R506II2GNJP28UGZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.10.21:414][444]LogLevelInstance: Loaded 1 levels in 0 seconds
+[2024.02.15-09.10.21:454][444]PIE: Server logged in
+[2024.02.15-09.10.21:455][444]PIE: Play in editor total start time 0.321 seconds.
+[2024.02.15-09.10.30:031][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-09.10.30:031][360]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_WorkingLevel
+[2024.02.15-09.10.30:034][360]LogWorld: UWorld::CleanupWorld for WorkingLevel, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-09.10.30:034][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-09.10.30:034][360]LogContentBundle: [WorkingLevel(Standalone)] Deleting container.
+[2024.02.15-09.10.30:037][360]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.15-09.10.30:040][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-09.10.30:049][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-09.10.30:050][360]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.02.15-09.10.30:050][360]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.02.15-09.10.30:053][360]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.02.15-09.10.30:071][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.02.15-09.10.30:106][361]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2024.02.15-09.10.36:532][ 77]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.02.15-09.10.40:281][494]Cmd: DELETE
+[2024.02.15-09.10.40:281][494]Cmd: ACTOR DELETE
+[2024.02.15-09.10.40:285][494]LogEditorActor: Deleted Actor: LevelInstance
+[2024.02.15-09.10.40:287][494]LogWorld: UWorld::CleanupWorld for Island2, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-09.10.40:287][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-09.10.40:294][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.02.15-09.10.40:303][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.02.15-09.10.40:304][494]MapCheck: New page: Map Check
+[2024.02.15-09.10.40:304][494]LightingResults: New page: Lighting Build
+[2024.02.15-09.10.40:310][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.02.15-09.10.40:310][494]LogLevelInstance: Unloaded 1 levels in 0.025 seconds
+[2024.02.15-09.10.40:318][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.02.15-09.10.40:318][494]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2024.02.15-09.10.41:567][641]Cmd: TRANSACTION UNDO
+[2024.02.15-09.10.41:567][641]LogEditorTransaction: Undo Delete Elements
+[2024.02.15-09.10.41:591][641]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/StarterContent/Maps/Island2_LevelInstance_f6f50b94f71fea1b_0) is flushing async loading
+[2024.02.15-09.10.41:591][641]LogStreaming: Display: FlushAsyncLoading(): 1 QueuedPackages, 0 AsyncPackages
+[2024.02.15-09.10.41:593][641]LogLevelInstance: Loaded 1 levels in 0.003 seconds
+[2024.02.15-09.10.44:433][916]Cmd: DELETE
+[2024.02.15-09.10.44:433][916]Cmd: ACTOR DELETE
+[2024.02.15-09.10.44:436][916]LogEditorActor: Deleted Actor: LevelInstance
+[2024.02.15-09.10.44:437][916]LogWorld: UWorld::CleanupWorld for Island2, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-09.10.44:437][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-09.10.44:447][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.02.15-09.10.44:454][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.02.15-09.10.44:455][916]MapCheck: New page: Map Check
+[2024.02.15-09.10.44:455][916]LightingResults: New page: Lighting Build
+[2024.02.15-09.10.44:461][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.02.15-09.10.44:461][916]LogLevelInstance: Unloaded 1 levels in 0.025 seconds
+[2024.02.15-09.10.44:467][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.02.15-09.10.44:469][916]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2024.02.15-09.10.45:763][ 65]Cmd: TRANSACTION UNDO
+[2024.02.15-09.10.45:763][ 65]LogEditorTransaction: Undo Delete Elements
+[2024.02.15-09.10.45:780][ 65]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/StarterContent/Maps/Island2_LevelInstance_f6f50b94f71fea1b_0) is flushing async loading
+[2024.02.15-09.10.45:780][ 65]LogStreaming: Display: FlushAsyncLoading(): 1 QueuedPackages, 0 AsyncPackages
+[2024.02.15-09.10.45:782][ 65]LogLevelInstance: Loaded 1 levels in 0.003 seconds
+[2024.02.15-09.11.12:382][ 23]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.02.15-09.11.13:936][192]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.15-09.11.13:946][192]LogWorldPartition: Display: GenerateStreaming for 'BackupLevel' started...
+[2024.02.15-09.11.13:953][192]LogWorldPartition: Display: GenerateStreaming for 'BackupLevel' took 6 ms (total: 444 ms)
+[2024.02.15-09.11.13:953][192]LogContentBundle: [WorkingLevel(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.15-09.11.13:953][192]LogWorldPartition: Display: GenerateStreaming for 'WorkingLevel' started...
+[2024.02.15-09.11.13:954][192]MapCheck: Error: Level Instance /Game/StarterContent/Maps/WorkingLevel.Island2 is not using external actors /Game/StarterContent/Maps/Island2.Island2 
+[2024.02.15-09.11.14:088][192]LogWorldPartition: Display: GenerateStreaming for 'WorkingLevel' took 134 ms (total: 579 ms)
+[2024.02.15-09.11.14:089][192]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.15-09.11.14:089][192]PIE: New page: PIE session: WorkingLevel (Feb 14, 2024, 9:11:14 PM)
+[2024.02.15-09.11.14:089][192]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_WorkingLevel
+[2024.02.15-09.11.14:101][192]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012686s)
+[2024.02.15-09.11.14:101][192]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/WorkingLevel.WorkingLevel to /Game/StarterContent/Maps/UEDPIE_0_WorkingLevel.WorkingLevel (0.012716s)
+[2024.02.15-09.11.14:106][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.02.15-09.11.14:107][192]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.15-09.11.14:107][192]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.15-09.11.14:108][192]LogAIModule: Creating AISystem for world WorkingLevel
+[2024.02.15-09.11.14:108][192]LogWorldPartition: ULevel::OnLevelLoaded(WorkingLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.15-09.11.14:108][192]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.15-09.11.14:108][192]LogWorldPartition: UWorldPartition::Initialize : World = WorkingLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.15-09.11.14:108][192]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.02.15-09.11.14:111][192]LogContentBundle: [WorkingLevel(Standalone)] Creating new contrainer.
+[2024.02.15-09.11.14:111][192]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 717 ms)
+[2024.02.15-09.11.14:111][192]LogPlayLevel: PIE: World Init took: (0.004774s)
+[2024.02.15-09.11.14:111][192]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.02.15-09.11.14:111][192]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.15-09.11.14:111][192]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.15-09.11.14:111][192]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.15-09.11.14:111][192]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.15-09.11.14:111][192]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.15-09.11.14:111][192]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.15-09.11.14:111][192]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.15-09.11.14:111][192]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.15-09.11.14:111][192]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.15-09.11.14:111][192]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.15-09.11.14:111][192]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.15-09.11.14:115][192]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.15-09.11.14:131][192]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.02.15-09.11.14:131][192]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.15-09.11.14:131][192]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.15-09.11.14:131][192]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.15-09.11.14:131][192]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.02.15-09.11.14:131][192]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.02.15-09.11.14:134][192]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.02.15-09.11.14:134][192]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.02.15-09.11.14:134][192]LogInit: FAudioDevice initialized with ID 5.
+[2024.02.15-09.11.14:134][192]LogAudio: Display: Audio Device (ID: 5) registered with world 'WorkingLevel'.
+[2024.02.15-09.11.14:134][192]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.02.15-09.11.14:137][192]LogLoad: Game class is 'GameModeBase'
+[2024.02.15-09.11.14:137][192]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_WorkingLevel.WorkingLevel up for play (max tick rate 0) at 2024.02.15-03.11.14
+[2024.02.15-09.11.14:137][192]LogWorld: Bringing up level for play took: 0.000798
+[2024.02.15-09.11.14:140][192]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2024.02.15-09.11.14:141][192]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(11), CellsToLoad(0), CellsToUnload(0)
+[2024.02.15-09.11.14:141][192]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=126170.000 Y=13120.000 Z=99592.000,P=0.000000 Y=0.000000 R=-0.000000
+[2024.02.15-09.11.14:142][192]LogStreaming: Display: FlushAsyncLoading(): 13 QueuedPackages, 0 AsyncPackages
+[2024.02.15-09.11.14:203][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/F/30/X83K012KIFVEBC9W0GG6ZL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.11.14:203][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/E/WT/5MFF5FL5U925862YF6JMQ9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.11.14:203][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/E/TB/DC9ABUXL4PJXV21896MK19.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.11.14:203][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/E/TB/DC9ABUXL4PJXV21896MK19.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.11.14:203][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/E/E5/X9QZ8PR0A48KI95U18LX73.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.11.14:203][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/E/6L/9RYVEXEOVPC29UOBNB4BGD.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.11.14:203][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/XV/RAMPVHBVYMHQ6WU9SSLLU8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.11.14:203][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/P0/KL22R8Z1SCOCNJ059NYSHW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.11.14:203][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/AQ/8JOBMS00SO7TSGQCWCJ91V.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2024.02.15-09.11.14:203][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/AQ/8JOBMS00SO7TSGQCWCJ91V.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2024.02.15-09.11.14:203][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/AQ/8JOBMS00SO7TSGQCWCJ91V.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2024.02.15-09.11.14:203][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/AQ/8JOBMS00SO7TSGQCWCJ91V.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2024.02.15-09.11.14:203][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/5E/YOPPJKI7KFHXAIIG2HGMVZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.11.14:203][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/1A/EVVT4Z58I8C81IO4OUARW2.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.11.14:203][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/XE/QJXJFMY82P0PO44HB5X4MP.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.11.14:203][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/XE/QJXJFMY82P0PO44HB5X4MP.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.11.14:203][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/SF/4IIIE2EPE7F1SKYCXL03TE.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.11.14:203][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/SF/4IIIE2EPE7F1SKYCXL03TE.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.11.14:203][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/G8/U41D02TNERSVNRF06Z92JV.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.11.14:203][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/G8/U41D02TNERSVNRF06Z92JV.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.11.14:203][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/8L/UYBBGE9DZGNLK3DHBFKQ0B.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.11.14:203][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/Z2/MZC5EKF58J8NLEK2BBF9MS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.11.14:203][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/VV/3JAMYUEDXWIIWNZRBXH3CG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.11.14:203][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/U3/5EE3RG11UPF3LNYKFQI7ZL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.11.14:203][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/RV/OO9L0QHEVXILTVGIY0XYS8.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.11.14:203][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/RV/OO9L0QHEVXILTVGIY0XYS8.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/IJ/OBZBOZMHQACZ09G4IGN5TU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/A/LN/SKWT1B72Y5KG8S5M7EJ842.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/9/Z7/S6XETZ9NX9X8RKSO9VBBZD.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/9/Z7/S6XETZ9NX9X8RKSO9VBBZD.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/9/VQ/N4ERG8WA2D98OLMOSUDS9I.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/9/VQ/N4ERG8WA2D98OLMOSUDS9I.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/8/SS/6Q4YSR1M6FJDLQCUB45L3N.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/8/IV/4RJW82EH43V8K4QSIPN4L7.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/8/IV/4RJW82EH43V8K4QSIPN4L7.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/8/37/Q9U702VH1AN4BBAA01XZYJ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/7/N3/BSC3KVKPHT21XLFWUFC8WG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/7/IQ/WJU0O8S8W1L5UCZ7PZWVXQ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/7/0A/FSNO7SXN98P3E4GCULLSO6.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/7/0A/FSNO7SXN98P3E4GCULLSO6.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/6/WM/GDO3TBSYKLZNGBR0T41HZB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/6/64/JMO0K4N2OBGJRJEVZPAUVG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/5/LC/CB33HF9Q49J8POMYLQ83JX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/LG/R3KEC17VGH4GD9ZMGO5065.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/GI/8P8BZM0CJLKHVAK1UAKMF8.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/GI/8P8BZM0CJLKHVAK1UAKMF8.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/AR/MM0FDN66MMLDQT5TEDE5WL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/2P/TNVH4UQYI0ENOK0J15S1L3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/1T/LG0X9KKMUMFACCYGJ0TSQX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/3/YV/G435FMERI9PAALUL2SU5WT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/3/NA/OT6VH6QNMNA3NHW6G7VAAL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/3/N9/I0ZBQ3JU0O4IVJ19XYSD09.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/2/ZJ/62IZ2VKJT9RD49WJFFC3BU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/2/NF/GSBX1SG4BZJUSAQHYSDBEV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/2/BH/WK86L00966TQB6TN6O0JGU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/PZ/XNOMS0ZKNU40XTW1M5WSFB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/H1/E4M5J6XYKGGCYVPFROREQP.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/H1/E4M5J6XYKGGCYVPFROREQP.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/4A/6MB8LEHQUBB7WPBKDS6S3Y.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/4A/6MB8LEHQUBB7WPBKDS6S3Y.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/2P/86XQP0PZ01MRN8V5RH75TN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/0/JZ/2RJ52VPC1PUEFGD83K64SI.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/0/FY/P3QYTKXQYA10WNA30PJFRZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.11.14:204][192]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/0/2X/QXXMS4R506II2GNJP28UGZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.11.14:222][192]LogLevelInstance: Loaded 1 levels in 0 seconds
+[2024.02.15-09.11.14:271][192]PIE: Server logged in
+[2024.02.15-09.11.14:272][192]PIE: Play in editor total start time 0.326 seconds.
+[2024.02.15-09.11.25:891][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-09.11.25:891][472]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_WorkingLevel
+[2024.02.15-09.11.25:894][472]LogWorld: UWorld::CleanupWorld for WorkingLevel, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-09.11.25:894][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-09.11.25:894][472]LogContentBundle: [WorkingLevel(Standalone)] Deleting container.
+[2024.02.15-09.11.25:897][472]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.15-09.11.25:900][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-09.11.25:910][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-09.11.25:911][472]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.02.15-09.11.25:911][472]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.02.15-09.11.25:913][472]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.02.15-09.11.25:930][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.02.15-09.11.25:972][474]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2024.02.15-09.11.36:674][702]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.02.15-09.11.38:519][896]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.02.15-09.12.17:437][ 13]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.02.15-09.12.47:886][257]Cmd: DELETE
+[2024.02.15-09.12.47:886][257]Cmd: ACTOR DELETE
+[2024.02.15-09.12.47:889][257]LogEditorActor: Deleted Actor: LevelInstance
+[2024.02.15-09.12.47:891][257]LogWorld: UWorld::CleanupWorld for Island2, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-09.12.47:891][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-09.12.47:899][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.02.15-09.12.47:907][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.02.15-09.12.47:907][257]MapCheck: New page: Map Check
+[2024.02.15-09.12.47:907][257]LightingResults: New page: Lighting Build
+[2024.02.15-09.12.47:915][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.02.15-09.12.47:915][257]LogLevelInstance: Unloaded 1 levels in 0.025 seconds
+[2024.02.15-09.12.47:921][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.02.15-09.12.47:922][257]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2024.02.15-09.13.03:605][862]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.15-09.13.03:709][863]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.15-09.13.25:577][299]Cmd: TRANSACTION UNDO
+[2024.02.15-09.13.25:577][299]LogEditorTransaction: Undo Clicking on Elements
+[2024.02.15-09.13.25:804][301]Cmd: TRANSACTION UNDO
+[2024.02.15-09.13.25:804][301]LogEditorTransaction: Undo Clicking on Actors
+[2024.02.15-09.13.26:058][303]Cmd: TRANSACTION UNDO
+[2024.02.15-09.13.26:058][303]LogEditorTransaction: Undo Clicking on Actors
+[2024.02.15-09.13.26:373][322]Cmd: TRANSACTION UNDO
+[2024.02.15-09.13.26:373][322]LogEditorTransaction: Undo Clicking on Actors
+[2024.02.15-09.13.26:713][354]Cmd: TRANSACTION UNDO
+[2024.02.15-09.13.26:713][354]LogEditorTransaction: Undo Clicking on Elements
+[2024.02.15-09.13.27:483][442]Cmd: TRANSACTION UNDO
+[2024.02.15-09.13.27:483][442]LogEditorTransaction: Undo Clicking on Elements
+[2024.02.15-09.13.27:992][498]Cmd: TRANSACTION UNDO
+[2024.02.15-09.13.27:992][498]LogEditorTransaction: Undo Delete Elements
+[2024.02.15-09.13.27:998][498]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/StarterContent/Maps/Island2_LevelInstance_f6f50b94f71fea1b_0) is flushing async loading
+[2024.02.15-09.13.27:998][498]LogStreaming: Display: FlushAsyncLoading(): 1 QueuedPackages, 0 AsyncPackages
+[2024.02.15-09.13.28:000][498]LogLevelInstance: Loaded 1 levels in 0.003 seconds
+[2024.02.15-09.13.28:476][548]Cmd: TRANSACTION UNDO
+[2024.02.15-09.13.28:476][548]LogEditorTransaction: Undo Move Elements
+[2024.02.15-09.15.20:037][923]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.15-09.15.20:048][923]LogWorldPartition: Display: GenerateStreaming for 'BackupLevel' started...
+[2024.02.15-09.15.20:056][923]LogWorldPartition: Display: GenerateStreaming for 'BackupLevel' took 8 ms (total: 587 ms)
+[2024.02.15-09.15.20:056][923]LogContentBundle: [WorkingLevel(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.15-09.15.20:056][923]LogWorldPartition: Display: GenerateStreaming for 'WorkingLevel' started...
+[2024.02.15-09.15.20:057][923]MapCheck: Error: Level Instance /Game/StarterContent/Maps/WorkingLevel.Island2 is not using external actors /Game/StarterContent/Maps/Island2.Island2 
+[2024.02.15-09.15.20:193][923]LogWorldPartition: Display: GenerateStreaming for 'WorkingLevel' took 137 ms (total: 725 ms)
+[2024.02.15-09.15.20:194][923]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.15-09.15.20:194][923]PIE: New page: PIE session: WorkingLevel (Feb 14, 2024, 9:15:20 PM)
+[2024.02.15-09.15.20:194][923]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_WorkingLevel
+[2024.02.15-09.15.20:207][923]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013315s)
+[2024.02.15-09.15.20:207][923]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/WorkingLevel.WorkingLevel to /Game/StarterContent/Maps/UEDPIE_0_WorkingLevel.WorkingLevel (0.013346s)
+[2024.02.15-09.15.20:213][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.02.15-09.15.20:214][923]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.15-09.15.20:214][923]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.15-09.15.20:215][923]LogAIModule: Creating AISystem for world WorkingLevel
+[2024.02.15-09.15.20:215][923]LogWorldPartition: ULevel::OnLevelLoaded(WorkingLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.15-09.15.20:215][923]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.15-09.15.20:215][923]LogWorldPartition: UWorldPartition::Initialize : World = WorkingLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.15-09.15.20:215][923]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.02.15-09.15.20:219][923]LogContentBundle: [WorkingLevel(Standalone)] Creating new contrainer.
+[2024.02.15-09.15.20:219][923]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 721 ms)
+[2024.02.15-09.15.20:219][923]LogPlayLevel: PIE: World Init took: (0.004854s)
+[2024.02.15-09.15.20:219][923]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.02.15-09.15.20:219][923]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.15-09.15.20:219][923]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.15-09.15.20:219][923]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.15-09.15.20:220][923]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.15-09.15.20:220][923]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.15-09.15.20:220][923]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.15-09.15.20:220][923]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.15-09.15.20:220][923]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.15-09.15.20:220][923]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.15-09.15.20:220][923]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.15-09.15.20:220][923]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.15-09.15.20:223][923]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.15-09.15.20:242][923]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.02.15-09.15.20:242][923]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.15-09.15.20:242][923]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.15-09.15.20:242][923]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.15-09.15.20:244][923]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.02.15-09.15.20:244][923]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.02.15-09.15.20:246][923]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.02.15-09.15.20:246][923]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.02.15-09.15.20:246][923]LogInit: FAudioDevice initialized with ID 6.
+[2024.02.15-09.15.20:246][923]LogAudio: Display: Audio Device (ID: 6) registered with world 'WorkingLevel'.
+[2024.02.15-09.15.20:246][923]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.02.15-09.15.20:248][923]LogLoad: Game class is 'GameModeBase'
+[2024.02.15-09.15.20:250][923]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_WorkingLevel.WorkingLevel up for play (max tick rate 0) at 2024.02.15-03.15.20
+[2024.02.15-09.15.20:250][923]LogWorld: Bringing up level for play took: 0.000808
+[2024.02.15-09.15.20:252][923]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2024.02.15-09.15.20:254][923]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(45), CellsToLoad(0), CellsToUnload(0)
+[2024.02.15-09.15.20:254][923]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-1000.000 Y=-1000.000 Z=600.000,P=0.000000 Y=0.000000 R=-0.000000
+[2024.02.15-09.15.20:257][923]LogStreaming: Display: FlushAsyncLoading(): 60 QueuedPackages, 0 AsyncPackages
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/F/30/X83K012KIFVEBC9W0GG6ZL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/E/WT/5MFF5FL5U925862YF6JMQ9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/E/TB/DC9ABUXL4PJXV21896MK19.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/E/TB/DC9ABUXL4PJXV21896MK19.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/E/E5/X9QZ8PR0A48KI95U18LX73.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/E/6L/9RYVEXEOVPC29UOBNB4BGD.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/XV/RAMPVHBVYMHQ6WU9SSLLU8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/P0/KL22R8Z1SCOCNJ059NYSHW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/AQ/8JOBMS00SO7TSGQCWCJ91V.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/AQ/8JOBMS00SO7TSGQCWCJ91V.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/AQ/8JOBMS00SO7TSGQCWCJ91V.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/AQ/8JOBMS00SO7TSGQCWCJ91V.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/5E/YOPPJKI7KFHXAIIG2HGMVZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/1A/EVVT4Z58I8C81IO4OUARW2.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/XE/QJXJFMY82P0PO44HB5X4MP.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/XE/QJXJFMY82P0PO44HB5X4MP.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/SF/4IIIE2EPE7F1SKYCXL03TE.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/SF/4IIIE2EPE7F1SKYCXL03TE.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/G8/U41D02TNERSVNRF06Z92JV.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/G8/U41D02TNERSVNRF06Z92JV.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/8L/UYBBGE9DZGNLK3DHBFKQ0B.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/Z2/MZC5EKF58J8NLEK2BBF9MS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/VV/3JAMYUEDXWIIWNZRBXH3CG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/U3/5EE3RG11UPF3LNYKFQI7ZL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/RV/OO9L0QHEVXILTVGIY0XYS8.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/RV/OO9L0QHEVXILTVGIY0XYS8.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/IJ/OBZBOZMHQACZ09G4IGN5TU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/A/LN/SKWT1B72Y5KG8S5M7EJ842.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/9/Z7/S6XETZ9NX9X8RKSO9VBBZD.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/9/Z7/S6XETZ9NX9X8RKSO9VBBZD.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/9/VQ/N4ERG8WA2D98OLMOSUDS9I.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/9/VQ/N4ERG8WA2D98OLMOSUDS9I.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/8/SS/6Q4YSR1M6FJDLQCUB45L3N.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/8/IV/4RJW82EH43V8K4QSIPN4L7.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/8/IV/4RJW82EH43V8K4QSIPN4L7.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/8/37/Q9U702VH1AN4BBAA01XZYJ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/7/N3/BSC3KVKPHT21XLFWUFC8WG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/7/IQ/WJU0O8S8W1L5UCZ7PZWVXQ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/7/0A/FSNO7SXN98P3E4GCULLSO6.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/7/0A/FSNO7SXN98P3E4GCULLSO6.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/6/WM/GDO3TBSYKLZNGBR0T41HZB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/6/64/JMO0K4N2OBGJRJEVZPAUVG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/5/LC/CB33HF9Q49J8POMYLQ83JX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/LG/R3KEC17VGH4GD9ZMGO5065.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/GI/8P8BZM0CJLKHVAK1UAKMF8.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/GI/8P8BZM0CJLKHVAK1UAKMF8.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/AR/MM0FDN66MMLDQT5TEDE5WL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/2P/TNVH4UQYI0ENOK0J15S1L3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/1T/LG0X9KKMUMFACCYGJ0TSQX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/3/YV/G435FMERI9PAALUL2SU5WT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/3/NA/OT6VH6QNMNA3NHW6G7VAAL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/3/N9/I0ZBQ3JU0O4IVJ19XYSD09.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/2/ZJ/62IZ2VKJT9RD49WJFFC3BU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/2/NF/GSBX1SG4BZJUSAQHYSDBEV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/2/BH/WK86L00966TQB6TN6O0JGU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/PZ/XNOMS0ZKNU40XTW1M5WSFB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/H1/E4M5J6XYKGGCYVPFROREQP.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/H1/E4M5J6XYKGGCYVPFROREQP.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/4A/6MB8LEHQUBB7WPBKDS6S3Y.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/4A/6MB8LEHQUBB7WPBKDS6S3Y.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/2P/86XQP0PZ01MRN8V5RH75TN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/0/JZ/2RJ52VPC1PUEFGD83K64SI.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/0/FY/P3QYTKXQYA10WNA30PJFRZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.15.20:553][923]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/0/2X/QXXMS4R506II2GNJP28UGZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.15.20:628][923]PIE: Server logged in
+[2024.02.15-09.15.20:629][923]PIE: Play in editor total start time 0.582 seconds.
+[2024.02.15-09.15.25:239][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-09.15.25:239][246]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_WorkingLevel
+[2024.02.15-09.15.25:259][246]LogWorld: UWorld::CleanupWorld for WorkingLevel, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-09.15.25:259][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-09.15.25:259][246]LogContentBundle: [WorkingLevel(Standalone)] Deleting container.
+[2024.02.15-09.15.25:262][246]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.15-09.15.25:266][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-09.15.25:282][246]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.15-09.15.25:285][246]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.02.15-09.15.25:285][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.02.15-09.15.25:287][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.02.15-09.15.25:291][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-09.15.25:310][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.02.15-09.15.25:342][247]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.02.15-09.15.37:023][473]Cmd: TRANSACTION UNDO
+[2024.02.15-09.15.37:023][473]LogEditorTransaction: Undo Move Elements
+[2024.02.15-09.15.37:240][475]Cmd: TRANSACTION UNDO
+[2024.02.15-09.15.37:240][475]LogEditorTransaction: Undo Move Elements
+[2024.02.15-09.15.37:386][476]Cmd: TRANSACTION UNDO
+[2024.02.15-09.15.37:386][476]LogEditorTransaction: Undo Clicking on Elements
+[2024.02.15-09.15.37:543][477]Cmd: TRANSACTION UNDO
+[2024.02.15-09.15.37:543][477]LogEditorTransaction: Undo Set Location
+[2024.02.15-09.15.37:701][478]Cmd: TRANSACTION UNDO
+[2024.02.15-09.15.37:701][478]LogEditorTransaction: Undo Set Location
+[2024.02.15-09.15.37:880][493]Cmd: TRANSACTION UNDO
+[2024.02.15-09.15.37:880][493]LogEditorTransaction: Undo Set Location
+[2024.02.15-09.15.38:047][510]Cmd: TRANSACTION UNDO
+[2024.02.15-09.15.38:047][510]LogEditorTransaction: Undo Clicking on Actors
+[2024.02.15-09.15.38:241][524]Cmd: TRANSACTION UNDO
+[2024.02.15-09.15.38:241][524]LogEditorTransaction: Undo Clicking on Elements
+[2024.02.15-09.15.38:428][541]Cmd: TRANSACTION UNDO
+[2024.02.15-09.15.38:428][541]LogEditorTransaction: Undo Clicking on Elements
+[2024.02.15-09.15.38:586][552]Cmd: TRANSACTION UNDO
+[2024.02.15-09.15.38:586][552]LogEditorTransaction: Undo Move Elements
+[2024.02.15-09.15.38:779][569]Cmd: TRANSACTION UNDO
+[2024.02.15-09.15.38:779][569]LogEditorTransaction: Undo Set Item Visibility
+[2024.02.15-09.15.38:991][589]Cmd: TRANSACTION UNDO
+[2024.02.15-09.15.38:991][589]LogEditorTransaction: Undo Set Item Visibility
+[2024.02.15-09.15.39:239][612]Cmd: TRANSACTION UNDO
+[2024.02.15-09.15.39:239][612]LogEditorTransaction: Undo Move Elements
+[2024.02.15-09.15.40:048][701]Cmd: TRANSACTION UNDO
+[2024.02.15-09.15.40:048][701]LogEditorTransaction: Undo Move Elements
+[2024.02.15-09.15.52:242][ 31]LogSlate: Took 0.001026 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.02.15-09.15.59:529][824]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.15-09.15.59:625][824]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/7/FC/2UEK0DG8IROXAHLD2EWVK0
+[2024.02.15-09.15.59:626][824]LogSavePackage: Moving '../../../../../../Users/arulhv2/Documents/415_MP2/MyProject/Saved/2UEK0DG8IROXAHLD2EWVK0CD66410B431D5C5E1BD61AB601DCB136.tmp' to '../../../../../../Users/arulhv2/Documents/415_MP2/MyProject/Content/__ExternalActors__/StarterContent/Maps/WorkingLevel/7/FC/2UEK0DG8IROXAHLD2EWVK0.uasset'
+[2024.02.15-09.15.59:630][824]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/5/MQ/QUJTF1YSCEMPS3F5KORTDU
+[2024.02.15-09.15.59:631][824]LogSavePackage: Moving '../../../../../../Users/arulhv2/Documents/415_MP2/MyProject/Saved/QUJTF1YSCEMPS3F5KORTDUF4AC1AFF463296332D94CEB6B0C6F74B.tmp' to '../../../../../../Users/arulhv2/Documents/415_MP2/MyProject/Content/__ExternalActors__/StarterContent/Maps/WorkingLevel/5/MQ/QUJTF1YSCEMPS3F5KORTDU.uasset'
+[2024.02.15-09.15.59:635][824]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/DZ/551YP91CPOVWZ2K0U1271F
+[2024.02.15-09.15.59:635][824]LogSavePackage: Moving '../../../../../../Users/arulhv2/Documents/415_MP2/MyProject/Saved/551YP91CPOVWZ2K0U1271F25D1484C4A1C1505B1B4D29A43F1ABB6.tmp' to '../../../../../../Users/arulhv2/Documents/415_MP2/MyProject/Content/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/DZ/551YP91CPOVWZ2K0U1271F.uasset'
+[2024.02.15-09.15.59:644][824]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 5.97 sec)
+[2024.02.15-09.15.59:647][824]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.15-09.15.59:647][824]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/StarterContent/Maps/WorkingLevel.WorkingLevel:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663
+[2024.02.15-09.15.59:647][824]LogContentValidation: Display: Validating /Script/Engine.LevelInstance /Game/StarterContent/Maps/WorkingLevel.WorkingLevel:PersistentLevel.LevelInstance_UAID_C8D9D22A5BFA68D901_1782326617
+[2024.02.15-09.15.59:647][824]LogContentValidation: Display: Validating /Script/Engine.PlayerStart /Game/StarterContent/Maps/WorkingLevel.WorkingLevel:PersistentLevel.PlayerStart_UAID_C8D9D22A5BFA68D901_1951655618
+[2024.02.15-09.16.45:520][813]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.15-09.16.45:530][813]LogWorldPartition: Display: GenerateStreaming for 'BackupLevel' started...
+[2024.02.15-09.16.45:536][813]LogWorldPartition: Display: GenerateStreaming for 'BackupLevel' took 6 ms (total: 731 ms)
+[2024.02.15-09.16.45:536][813]LogContentBundle: [WorkingLevel(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.15-09.16.45:536][813]LogWorldPartition: Display: GenerateStreaming for 'WorkingLevel' started...
+[2024.02.15-09.16.45:538][813]MapCheck: Error: Level Instance /Game/StarterContent/Maps/WorkingLevel.Island2 is not using external actors /Game/StarterContent/Maps/Island2.Island2 
+[2024.02.15-09.16.45:668][813]LogWorldPartition: Display: GenerateStreaming for 'WorkingLevel' took 132 ms (total: 863 ms)
+[2024.02.15-09.16.45:669][813]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.15-09.16.45:669][813]PIE: New page: PIE session: WorkingLevel (Feb 14, 2024, 9:16:45 PM)
+[2024.02.15-09.16.45:669][813]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_WorkingLevel
+[2024.02.15-09.16.45:682][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012857s)
+[2024.02.15-09.16.45:682][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/WorkingLevel.WorkingLevel to /Game/StarterContent/Maps/UEDPIE_0_WorkingLevel.WorkingLevel (0.012889s)
+[2024.02.15-09.16.45:689][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.02.15-09.16.45:690][813]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.15-09.16.45:690][813]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.15-09.16.45:691][813]LogAIModule: Creating AISystem for world WorkingLevel
+[2024.02.15-09.16.45:691][813]LogWorldPartition: ULevel::OnLevelLoaded(WorkingLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.15-09.16.45:691][813]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.15-09.16.45:691][813]LogWorldPartition: UWorldPartition::Initialize : World = WorkingLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.15-09.16.45:691][813]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.02.15-09.16.45:695][813]LogContentBundle: [WorkingLevel(Standalone)] Creating new contrainer.
+[2024.02.15-09.16.45:695][813]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 724 ms)
+[2024.02.15-09.16.45:695][813]LogPlayLevel: PIE: World Init took: (0.004659s)
+[2024.02.15-09.16.45:695][813]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.02.15-09.16.45:695][813]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.15-09.16.45:695][813]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.15-09.16.45:695][813]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.15-09.16.45:695][813]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.15-09.16.45:695][813]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.15-09.16.45:695][813]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.15-09.16.45:695][813]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.15-09.16.45:695][813]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.15-09.16.45:695][813]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.15-09.16.45:695][813]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.15-09.16.45:695][813]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.15-09.16.45:697][813]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.15-09.16.45:713][813]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.02.15-09.16.45:713][813]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.15-09.16.45:713][813]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.15-09.16.45:713][813]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.15-09.16.45:714][813]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.02.15-09.16.45:714][813]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.02.15-09.16.45:717][813]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.02.15-09.16.45:717][813]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.02.15-09.16.45:717][813]LogInit: FAudioDevice initialized with ID 7.
+[2024.02.15-09.16.45:717][813]LogAudio: Display: Audio Device (ID: 7) registered with world 'WorkingLevel'.
+[2024.02.15-09.16.45:717][813]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.02.15-09.16.45:720][813]LogLoad: Game class is 'GameModeBase'
+[2024.02.15-09.16.45:720][813]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_WorkingLevel.WorkingLevel up for play (max tick rate 0) at 2024.02.15-03.16.45
+[2024.02.15-09.16.45:720][813]LogWorld: Bringing up level for play took: 0.000791
+[2024.02.15-09.16.45:723][813]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2024.02.15-09.16.45:724][813]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(10), CellsToLoad(0), CellsToUnload(0)
+[2024.02.15-09.16.45:724][813]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=124070.000 Y=13120.000 Z=99572.000,P=0.000000 Y=0.000000 R=-0.000000
+[2024.02.15-09.16.45:725][813]LogStreaming: Display: FlushAsyncLoading(): 12 QueuedPackages, 0 AsyncPackages
+[2024.02.15-09.16.45:785][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/F/30/X83K012KIFVEBC9W0GG6ZL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.16.45:785][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/E/WT/5MFF5FL5U925862YF6JMQ9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.16.45:785][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/E/TB/DC9ABUXL4PJXV21896MK19.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.16.45:785][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/E/TB/DC9ABUXL4PJXV21896MK19.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/E/E5/X9QZ8PR0A48KI95U18LX73.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/E/6L/9RYVEXEOVPC29UOBNB4BGD.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/XV/RAMPVHBVYMHQ6WU9SSLLU8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/P0/KL22R8Z1SCOCNJ059NYSHW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/AQ/8JOBMS00SO7TSGQCWCJ91V.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/AQ/8JOBMS00SO7TSGQCWCJ91V.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/AQ/8JOBMS00SO7TSGQCWCJ91V.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/AQ/8JOBMS00SO7TSGQCWCJ91V.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/5E/YOPPJKI7KFHXAIIG2HGMVZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/1A/EVVT4Z58I8C81IO4OUARW2.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/XE/QJXJFMY82P0PO44HB5X4MP.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/XE/QJXJFMY82P0PO44HB5X4MP.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/SF/4IIIE2EPE7F1SKYCXL03TE.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/SF/4IIIE2EPE7F1SKYCXL03TE.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/G8/U41D02TNERSVNRF06Z92JV.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/G8/U41D02TNERSVNRF06Z92JV.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/8L/UYBBGE9DZGNLK3DHBFKQ0B.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/Z2/MZC5EKF58J8NLEK2BBF9MS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/VV/3JAMYUEDXWIIWNZRBXH3CG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/U3/5EE3RG11UPF3LNYKFQI7ZL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/RV/OO9L0QHEVXILTVGIY0XYS8.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/RV/OO9L0QHEVXILTVGIY0XYS8.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/IJ/OBZBOZMHQACZ09G4IGN5TU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/A/LN/SKWT1B72Y5KG8S5M7EJ842.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/9/Z7/S6XETZ9NX9X8RKSO9VBBZD.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/9/Z7/S6XETZ9NX9X8RKSO9VBBZD.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/9/VQ/N4ERG8WA2D98OLMOSUDS9I.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/9/VQ/N4ERG8WA2D98OLMOSUDS9I.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/8/SS/6Q4YSR1M6FJDLQCUB45L3N.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/8/IV/4RJW82EH43V8K4QSIPN4L7.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/8/IV/4RJW82EH43V8K4QSIPN4L7.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/8/37/Q9U702VH1AN4BBAA01XZYJ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/7/N3/BSC3KVKPHT21XLFWUFC8WG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/7/IQ/WJU0O8S8W1L5UCZ7PZWVXQ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/7/0A/FSNO7SXN98P3E4GCULLSO6.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/7/0A/FSNO7SXN98P3E4GCULLSO6.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/6/WM/GDO3TBSYKLZNGBR0T41HZB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/6/64/JMO0K4N2OBGJRJEVZPAUVG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/5/LC/CB33HF9Q49J8POMYLQ83JX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/LG/R3KEC17VGH4GD9ZMGO5065.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/GI/8P8BZM0CJLKHVAK1UAKMF8.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/GI/8P8BZM0CJLKHVAK1UAKMF8.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/AR/MM0FDN66MMLDQT5TEDE5WL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/2P/TNVH4UQYI0ENOK0J15S1L3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/1T/LG0X9KKMUMFACCYGJ0TSQX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/3/YV/G435FMERI9PAALUL2SU5WT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/3/NA/OT6VH6QNMNA3NHW6G7VAAL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/3/N9/I0ZBQ3JU0O4IVJ19XYSD09.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/2/ZJ/62IZ2VKJT9RD49WJFFC3BU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/2/NF/GSBX1SG4BZJUSAQHYSDBEV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/2/BH/WK86L00966TQB6TN6O0JGU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/PZ/XNOMS0ZKNU40XTW1M5WSFB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/H1/E4M5J6XYKGGCYVPFROREQP.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/H1/E4M5J6XYKGGCYVPFROREQP.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/4A/6MB8LEHQUBB7WPBKDS6S3Y.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/4A/6MB8LEHQUBB7WPBKDS6S3Y.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/2P/86XQP0PZ01MRN8V5RH75TN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/0/JZ/2RJ52VPC1PUEFGD83K64SI.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/0/FY/P3QYTKXQYA10WNA30PJFRZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.16.45:787][813]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/0/2X/QXXMS4R506II2GNJP28UGZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.16.45:811][813]PIE: Server logged in
+[2024.02.15-09.16.45:812][813]PIE: Play in editor total start time 0.282 seconds.
+[2024.02.15-09.16.59:500][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-09.16.59:500][349]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_WorkingLevel
+[2024.02.15-09.16.59:502][349]LogWorld: UWorld::CleanupWorld for WorkingLevel, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-09.16.59:502][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-09.16.59:503][349]LogContentBundle: [WorkingLevel(Standalone)] Deleting container.
+[2024.02.15-09.16.59:505][349]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.15-09.16.59:508][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-09.16.59:519][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-09.16.59:520][349]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.02.15-09.16.59:520][349]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.02.15-09.16.59:522][349]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.02.15-09.16.59:537][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.02.15-09.16.59:571][350]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.02.15-09.17.38:683][685]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.15-09.17.38:684][685]LogActorFactory: Actor Factory attempting to spawn World /Game/StarterContent/Maps/Island2.Island2
+[2024.02.15-09.17.38:684][685]LogActorFactory: Actor Factory attempting to spawn World /Game/StarterContent/Maps/Island2.Island2
+[2024.02.15-09.17.38:692][685]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/StarterContent/Maps/Island2_LevelInstance_6a02fc6449a17adb_0) is flushing async loading
+[2024.02.15-09.17.38:692][685]LogStreaming: Display: FlushAsyncLoading(): 1 QueuedPackages, 0 AsyncPackages
+[2024.02.15-09.17.38:695][685]LogLevelInstance: Loaded 1 levels in 0.003 seconds
+[2024.02.15-09.17.41:931][ 60]Cmd: TRANSACTION UNDO
+[2024.02.15-09.17.41:931][ 60]LogEditorTransaction: Undo Create Actor
+[2024.02.15-09.17.41:965][ 60]LogWorld: UWorld::CleanupWorld for Island2, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-09.17.41:965][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-09.17.41:981][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.02.15-09.17.41:989][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.02.15-09.17.41:991][ 60]MapCheck: New page: Map Check
+[2024.02.15-09.17.41:991][ 60]LightingResults: New page: Lighting Build
+[2024.02.15-09.17.41:997][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.02.15-09.17.41:998][ 60]LogLevelInstance: Unloaded 1 levels in 0.035 seconds
+[2024.02.15-09.18.11:241][225]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.15-09.18.11:347][225]LogWorldPartition: Actor /Game/StarterContent/Maps/WorkingLevel.WorkingLevel:PersistentLevel.LevelInstance_UAID_C8D9D22A5BFA69D901_1339549795 is unreachable without properly detaching object /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/8/M2/HEDPQ63CFYOQUC78W2WENU.PackageMetaData in its package
+[2024.02.15-09.18.11:350][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.02.15-09.18.11:357][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.02.15-09.18.11:363][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.02.15-09.18.11:367][225]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/DZ/551YP91CPOVWZ2K0U1271F
+[2024.02.15-09.18.11:368][225]LogSavePackage: Moving '../../../../../../Users/arulhv2/Documents/415_MP2/MyProject/Saved/551YP91CPOVWZ2K0U1271FFEADBD6043A555E40DB645BD8E38036B.tmp' to '../../../../../../Users/arulhv2/Documents/415_MP2/MyProject/Content/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/DZ/551YP91CPOVWZ2K0U1271F.uasset'
+[2024.02.15-09.18.11:376][225]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 6.11 sec)
+[2024.02.15-09.18.11:377][225]AssetCheck: New page: Asset Save: PlayerStart_UAID_C8D9D22A5BFA68D901_1951655618
+[2024.02.15-09.18.11:377][225]LogContentValidation: Display: Validating /Script/Engine.PlayerStart /Game/StarterContent/Maps/WorkingLevel.WorkingLevel:PersistentLevel.PlayerStart_UAID_C8D9D22A5BFA68D901_1951655618
+[2024.02.15-09.18.19:714][162]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.15-09.18.19:724][162]LogWorldPartition: Display: GenerateStreaming for 'BackupLevel' started...
+[2024.02.15-09.18.19:729][162]LogWorldPartition: Display: GenerateStreaming for 'BackupLevel' took 6 ms (total: 870 ms)
+[2024.02.15-09.18.19:729][162]LogContentBundle: [WorkingLevel(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.15-09.18.19:729][162]LogWorldPartition: Display: GenerateStreaming for 'WorkingLevel' started...
+[2024.02.15-09.18.19:731][162]MapCheck: Error: Level Instance /Game/StarterContent/Maps/WorkingLevel.Island2 is not using external actors /Game/StarterContent/Maps/Island2.Island2 
+[2024.02.15-09.18.19:867][162]LogWorldPartition: Display: GenerateStreaming for 'WorkingLevel' took 137 ms (total: 1.00 sec)
+[2024.02.15-09.18.19:868][162]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.15-09.18.19:868][162]PIE: New page: PIE session: WorkingLevel (Feb 14, 2024, 9:18:19 PM)
+[2024.02.15-09.18.19:868][162]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_WorkingLevel
+[2024.02.15-09.18.19:882][162]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013334s)
+[2024.02.15-09.18.19:882][162]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/WorkingLevel.WorkingLevel to /Game/StarterContent/Maps/UEDPIE_0_WorkingLevel.WorkingLevel (0.013372s)
+[2024.02.15-09.18.19:887][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.02.15-09.18.19:887][162]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.15-09.18.19:888][162]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.15-09.18.19:888][162]LogAIModule: Creating AISystem for world WorkingLevel
+[2024.02.15-09.18.19:888][162]LogWorldPartition: ULevel::OnLevelLoaded(WorkingLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.15-09.18.19:888][162]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.15-09.18.19:888][162]LogWorldPartition: UWorldPartition::Initialize : World = WorkingLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.15-09.18.19:888][162]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.02.15-09.18.19:892][162]LogContentBundle: [WorkingLevel(Standalone)] Creating new contrainer.
+[2024.02.15-09.18.19:892][162]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 728 ms)
+[2024.02.15-09.18.19:892][162]LogPlayLevel: PIE: World Init took: (0.004771s)
+[2024.02.15-09.18.19:892][162]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.02.15-09.18.19:892][162]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.15-09.18.19:892][162]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.15-09.18.19:892][162]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.15-09.18.19:892][162]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.15-09.18.19:892][162]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.15-09.18.19:892][162]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.15-09.18.19:892][162]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.15-09.18.19:892][162]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.15-09.18.19:892][162]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.15-09.18.19:892][162]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.15-09.18.19:892][162]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.15-09.18.19:896][162]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.15-09.18.19:912][162]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.02.15-09.18.19:912][162]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.15-09.18.19:913][162]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.15-09.18.19:913][162]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.15-09.18.19:914][162]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.02.15-09.18.19:914][162]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.02.15-09.18.19:916][162]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.02.15-09.18.19:916][162]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.02.15-09.18.19:916][162]LogInit: FAudioDevice initialized with ID 8.
+[2024.02.15-09.18.19:916][162]LogAudio: Display: Audio Device (ID: 8) registered with world 'WorkingLevel'.
+[2024.02.15-09.18.19:916][162]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.02.15-09.18.19:919][162]LogLoad: Game class is 'GameModeBase'
+[2024.02.15-09.18.19:919][162]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_WorkingLevel.WorkingLevel up for play (max tick rate 0) at 2024.02.15-03.18.19
+[2024.02.15-09.18.19:920][162]LogWorld: Bringing up level for play took: 0.000822
+[2024.02.15-09.18.19:922][162]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2024.02.15-09.18.19:923][162]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(45), CellsToLoad(0), CellsToUnload(0)
+[2024.02.15-09.18.19:923][162]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-1000.000 Y=-1000.000 Z=700.000,P=0.000000 Y=0.000000 R=-0.000000
+[2024.02.15-09.18.19:927][162]LogStreaming: Display: FlushAsyncLoading(): 61 QueuedPackages, 0 AsyncPackages
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/F/30/X83K012KIFVEBC9W0GG6ZL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/E/WT/5MFF5FL5U925862YF6JMQ9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/E/TB/DC9ABUXL4PJXV21896MK19.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/E/TB/DC9ABUXL4PJXV21896MK19.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/E/E5/X9QZ8PR0A48KI95U18LX73.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/E/6L/9RYVEXEOVPC29UOBNB4BGD.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/XV/RAMPVHBVYMHQ6WU9SSLLU8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/P0/KL22R8Z1SCOCNJ059NYSHW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/AQ/8JOBMS00SO7TSGQCWCJ91V.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/AQ/8JOBMS00SO7TSGQCWCJ91V.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/AQ/8JOBMS00SO7TSGQCWCJ91V.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/AQ/8JOBMS00SO7TSGQCWCJ91V.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/5E/YOPPJKI7KFHXAIIG2HGMVZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/D/1A/EVVT4Z58I8C81IO4OUARW2.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/XE/QJXJFMY82P0PO44HB5X4MP.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/XE/QJXJFMY82P0PO44HB5X4MP.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/SF/4IIIE2EPE7F1SKYCXL03TE.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/SF/4IIIE2EPE7F1SKYCXL03TE.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/G8/U41D02TNERSVNRF06Z92JV.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/G8/U41D02TNERSVNRF06Z92JV.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/C/8L/UYBBGE9DZGNLK3DHBFKQ0B.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/Z2/MZC5EKF58J8NLEK2BBF9MS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/VV/3JAMYUEDXWIIWNZRBXH3CG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/U3/5EE3RG11UPF3LNYKFQI7ZL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/RV/OO9L0QHEVXILTVGIY0XYS8.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/RV/OO9L0QHEVXILTVGIY0XYS8.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/B/IJ/OBZBOZMHQACZ09G4IGN5TU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/A/LN/SKWT1B72Y5KG8S5M7EJ842.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/9/Z7/S6XETZ9NX9X8RKSO9VBBZD.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/9/Z7/S6XETZ9NX9X8RKSO9VBBZD.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/9/VQ/N4ERG8WA2D98OLMOSUDS9I.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/9/VQ/N4ERG8WA2D98OLMOSUDS9I.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/8/SS/6Q4YSR1M6FJDLQCUB45L3N.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/8/IV/4RJW82EH43V8K4QSIPN4L7.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/8/IV/4RJW82EH43V8K4QSIPN4L7.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/8/37/Q9U702VH1AN4BBAA01XZYJ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/7/N3/BSC3KVKPHT21XLFWUFC8WG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/7/IQ/WJU0O8S8W1L5UCZ7PZWVXQ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.18.20:244][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/7/0A/FSNO7SXN98P3E4GCULLSO6.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.18.20:245][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/7/0A/FSNO7SXN98P3E4GCULLSO6.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.18.20:245][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/6/WM/GDO3TBSYKLZNGBR0T41HZB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.18.20:245][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/6/64/JMO0K4N2OBGJRJEVZPAUVG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.18.20:245][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/5/LC/CB33HF9Q49J8POMYLQ83JX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.18.20:245][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/LG/R3KEC17VGH4GD9ZMGO5065.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.18.20:245][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/GI/8P8BZM0CJLKHVAK1UAKMF8.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.18.20:245][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/GI/8P8BZM0CJLKHVAK1UAKMF8.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.18.20:245][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/AR/MM0FDN66MMLDQT5TEDE5WL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.18.20:245][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/2P/TNVH4UQYI0ENOK0J15S1L3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.18.20:245][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/4/1T/LG0X9KKMUMFACCYGJ0TSQX.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.18.20:245][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/3/YV/G435FMERI9PAALUL2SU5WT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.18.20:245][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/3/NA/OT6VH6QNMNA3NHW6G7VAAL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.18.20:245][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/3/N9/I0ZBQ3JU0O4IVJ19XYSD09.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.18.20:245][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/2/ZJ/62IZ2VKJT9RD49WJFFC3BU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.18.20:245][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/2/NF/GSBX1SG4BZJUSAQHYSDBEV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.18.20:245][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/2/BH/WK86L00966TQB6TN6O0JGU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.18.20:245][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/PZ/XNOMS0ZKNU40XTW1M5WSFB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.18.20:245][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/H1/E4M5J6XYKGGCYVPFROREQP.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.18.20:245][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/H1/E4M5J6XYKGGCYVPFROREQP.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.18.20:245][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/4A/6MB8LEHQUBB7WPBKDS6S3Y.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.15-09.18.20:245][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/4A/6MB8LEHQUBB7WPBKDS6S3Y.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.15-09.18.20:245][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/1/2P/86XQP0PZ01MRN8V5RH75TN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.18.20:245][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/0/JZ/2RJ52VPC1PUEFGD83K64SI.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.18.20:245][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/0/FY/P3QYTKXQYA10WNA30PJFRZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.18.20:245][162]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/StarterContent/Maps/WorkingLevel/0/2X/QXXMS4R506II2GNJP28UGZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.15-09.18.20:318][162]LogLevelInstance: Loaded 1 levels in 0 seconds
+[2024.02.15-09.18.20:494][162]PIE: Server logged in
+[2024.02.15-09.18.20:495][162]PIE: Play in editor total start time 0.771 seconds.
+[2024.02.15-09.18.30:268][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-09.18.30:268][136]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_WorkingLevel
+[2024.02.15-09.18.30:290][136]LogWorld: UWorld::CleanupWorld for WorkingLevel, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-09.18.30:291][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-09.18.30:291][136]LogContentBundle: [WorkingLevel(Standalone)] Deleting container.
+[2024.02.15-09.18.30:294][136]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.15-09.18.30:298][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-09.18.30:313][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-09.18.30:314][136]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.02.15-09.18.30:314][136]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.02.15-09.18.30:317][136]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.02.15-09.18.30:343][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.02.15-09.18.30:377][137]LogPlayLevel: Display: Destroying online subsystem :Context_9
