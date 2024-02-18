@@ -16,7 +16,8 @@
 				"C:/Users/arulhv2/Documents/415_MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_AICharacter.uasset",
 				"C:/Users/arulhv2/Documents/415_MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.uasset",
 				"C:/Users/arulhv2/Documents/415_MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer2.uasset",
-				"C:/Users/arulhv2/Documents/415_MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/WB_GameOver.uasset"
+				"C:/Users/arulhv2/Documents/415_MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/WB_GameOver.uasset",
+				"C:/Users/arulhv2/Documents/415_MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/EAIState.uasset"
 			]
 		}
 	]
